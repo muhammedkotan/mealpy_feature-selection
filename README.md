@@ -1,8 +1,8 @@
 # mealpy_feature-selection
 
-Developed by Muhammed Kotan
+Developed by Muhammed Kotan (www.mkotan.sakarya.edu.tr )
 
-www.mkotan.sakarya.edu.tr 
+
 This page was developed for quick testing of metaheuristic optimization techniques in feature selection studies. 
 The application interface is developed with gradio. https://gradio.app/ 
 
