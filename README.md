@@ -6,7 +6,7 @@ Developed by Muhammed Kotan
 https://huggingface.co/spaces/mkotan/mealpy_feature-selection
 
 
-![interface]()
+![interface](https://github.com/muhammedkotan/mealpy_feature-selection/blob/main/interface.PNG?raw=true)
 
 
 www.mkotan.sakarya.edu.tr 
