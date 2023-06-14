@@ -25,4 +25,4 @@ https://huggingface.co/spaces/mkotan/mealpy_feature-selection
 
 [1] Oğur, N. B., Kotan, M., Balta, D., Yavuz, B. Ç., Oğur, Y. S., Yuvacı, H. U., & Yazıcı, E. (2023). Detection of depression and anxiety in the perinatal period using Marine Predators Algorithm and kNN. Computers in Biology and Medicine, 161, 107003. 
  
-[2](Under review)Kotan, M “Developing a web interface for feature selection studies using machine learning models and Metaheuristic techniques” (2023)
+
